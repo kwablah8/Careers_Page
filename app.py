@@ -6,13 +6,19 @@ JOBS = [
         'id': 1,
         'title': 'Data Analyst',
         'location': 'Accra, Ghana',
-        'salary': '4500'
+        'salary': 'GHC 4500'
     },
     {
         'id': 1,
         'title': 'Software Engineer',
         'location': 'Accra, Ghana',
-        'salary': '5000'
+        'salary': 'GHC 5000'
+    },
+    {
+        'id': 1,
+        'title': 'UI/UX Designer',
+        'location': 'Remote',
+        'salary': 'GHC 5000'
     }
 ]
 
